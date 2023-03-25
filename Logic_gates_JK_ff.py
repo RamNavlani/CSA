@@ -106,8 +106,7 @@ if(choise!=1 and choise!=2 and choise!=3 and choise!=4 and choise!=5 and choise!
      
      
      
- #Jk FLIP FLOPS
- CODE:JK FLIP-FLOP:-
+#Jk FLIP FLOPS
 
 # Initialize the J and K inputs
 J = 0
